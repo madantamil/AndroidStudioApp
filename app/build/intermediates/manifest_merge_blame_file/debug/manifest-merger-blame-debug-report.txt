@@ -21,7 +21,7 @@
 15-->C:\Users\madan\OneDrive\Desktop\Android_git\AndroidStudioApp\app\src\main\AndroidManifest.xml:9:9-54
 16        android:supportsRtl="true"
 16-->C:\Users\madan\OneDrive\Desktop\Android_git\AndroidStudioApp\app\src\main\AndroidManifest.xml:10:9-35
-17        android:testOnly="true"
+17        android:testOnly="false"
 17-->C:\Users\madan\OneDrive\Desktop\Android_git\AndroidStudioApp\app\src\main\AndroidManifest.xml:6:9-33
 18        android:theme="@style/AppTheme" >
 18-->C:\Users\madan\OneDrive\Desktop\Android_git\AndroidStudioApp\app\src\main\AndroidManifest.xml:11:9-40
