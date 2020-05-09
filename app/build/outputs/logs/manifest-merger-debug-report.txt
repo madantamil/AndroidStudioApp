@@ -60,12 +60,12 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\madan\.gradle\caches
 		ADDED from C:\Users\madan\OneDrive\Desktop\Android_git\AndroidStudioApp\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
 		ADDED from C:\Users\madan\OneDrive\Desktop\Android_git\AndroidStudioApp\app\src\main\AndroidManifest.xml:8:9-41
+	android:testOnly
+		ADDED from C:\Users\madan\OneDrive\Desktop\Android_git\AndroidStudioApp\app\src\main\AndroidManifest.xml:6:9-33
 	android:roundIcon
 		ADDED from C:\Users\madan\OneDrive\Desktop\Android_git\AndroidStudioApp\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
 		ADDED from C:\Users\madan\OneDrive\Desktop\Android_git\AndroidStudioApp\app\src\main\AndroidManifest.xml:7:9-43
-	android:allowBackup
-		ADDED from C:\Users\madan\OneDrive\Desktop\Android_git\AndroidStudioApp\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\madan\OneDrive\Desktop\Android_git\AndroidStudioApp\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.bracesmedia.androidmaterialdashboard.MainActivity
